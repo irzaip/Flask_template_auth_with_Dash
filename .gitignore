@@ -25,3 +25,6 @@ _templates
 
 # javascript
 package-lock.json
+
+stock/
+stock_new/
