@@ -27,3 +27,14 @@ Here is an example of a real project implemented using Flask-Gentelella:
 ### Default Admin User
     username: admin
     password: admin
+
+### ORIGINAL FORK DARI GENTELLA - (Telah di rubah oleh irzaip ke stock) - CARA INSTALL
+    git clone https://github.com/irzaip/Flask_template_auth_with_Dash pydash
+    cd pydash
+    (pipenv sync)
+    atau 
+    pip install -r requirements.txt
+
+    Jalankan
+    python run.py
+    
